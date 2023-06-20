@@ -18,7 +18,7 @@ Time block colors are updated based on the current hour. Past time blocks appear
 
 ## Link to deployed application
 
-TEMP
+[TEMP](https://kclarkdev.github.io/work-day-scheduler/)
 
 ## Credits
 
